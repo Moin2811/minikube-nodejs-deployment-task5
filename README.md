@@ -1,28 +1,21 @@
-Kubernetes Task 5 — Minikube Deployment
 
-Objective
+# **Kubernetes Task 5 — Minikube Deployment**
 
+## **Objective**
 
-Deploy and manage an application on Kubernetes using Minikube, kubectl, and Docker.
+Deploy and manage an application on Kubernetes using **Minikube**, **kubectl**, and **Docker**.
 
+## **Steps Performed**
 
-Steps Performed
-Created a Kubernetes deployment (deployment.yaml) for nginx with 2 replicas.
+1. Created a Kubernetes **deployment** (`deployment.yaml`) for **nginx** with **2 replicas**.
+2. Created a **NodePort service** (`service.yaml`) to expose the application externally.
+3. Verified **pods**, **deployments**, and **services** using `kubectl` commands.
+4. Scaled the deployment from **2 to 4 replicas**.
+5. Viewed application pod logs and described pod specifications for troubleshooting and inspection.
+6. Saved all command outputs in the `outputs/` directory.
 
-Created a NodePort service (service.yaml) to expose the application externally.
+## **Repository Contents**
 
-Verified pods, deployments, and services using kubectl commands.
-
-Scaled the deployment from 2 to 4 replicas.
-
-Viewed application pod logs and described pod specifications for troubleshooting and inspection.
-
-Saved all command outputs in the outputs/ directory.
-
-
-Repository Contents
-deployment.yaml — Deployment configuration.
-
-service.yaml — Service configuration.
-
-outputs/ — Folder containing execution results and command outputs.
+* **`deployment.yaml`** — Deployment configuration.
+* **`service.yaml`** — Service configuration.
+* **`outputs/`** — Folder containing execution results and command outputs.
