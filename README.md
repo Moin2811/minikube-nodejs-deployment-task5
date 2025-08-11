@@ -1,4 +1,5 @@
 Kubernetes Task 5 — Minikube Deployment
+
 Objective
 Deploy and manage an application on Kubernetes using Minikube, kubectl, and Docker.
 
