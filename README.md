@@ -1,7 +1,10 @@
 Kubernetes Task 5 — Minikube Deployment
 
 Objective
+
+
 Deploy and manage an application on Kubernetes using Minikube, kubectl, and Docker.
+
 
 Steps Performed
 Created a Kubernetes deployment (deployment.yaml) for nginx with 2 replicas.
@@ -15,6 +18,7 @@ Scaled the deployment from 2 to 4 replicas.
 Viewed application pod logs and described pod specifications for troubleshooting and inspection.
 
 Saved all command outputs in the outputs/ directory.
+
 
 Repository Contents
 deployment.yaml — Deployment configuration.
