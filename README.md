@@ -19,3 +19,7 @@ Deploy and manage an application on Kubernetes using **Minikube**, **kubectl**, 
 * **`deployment.yaml`** — Deployment configuration.
 * **`service.yaml`** — Service configuration.
 * **`outputs/`** — Folder containing execution results and command outputs.
+
+* 
+
+<img width="1918" height="1078" alt="Screenshot 2025-08-11 190937" src="https://github.com/user-attachments/assets/4b609687-967f-4e9c-9f23-e35b4701de0d" />
