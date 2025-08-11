@@ -23,3 +23,5 @@ Deploy and manage an application on Kubernetes using **Minikube**, **kubectl**, 
 * 
 
 <img width="1918" height="1078" alt="Screenshot 2025-08-11 190937" src="https://github.com/user-attachments/assets/4b609687-967f-4e9c-9f23-e35b4701de0d" />
+<img width="1918" height="1017" alt="Screenshot 2025-08-11 191933" src="https://github.com/user-attachments/assets/19493aca-71ab-40ce-8552-1e33e73d73b7" />
+<img width="1918" height="985" alt="Screenshot 2025-08-11 192001" src="https://github.com/user-attachments/assets/ac6a4333-a05f-4f06-9643-fc8993bbf020" />
